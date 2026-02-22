@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables — never commit real secrets
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Vercel build output
+.vercel/
